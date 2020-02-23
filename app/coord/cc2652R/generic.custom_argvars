@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iarUserArgVars>
+    <group name="SIMPLELINK_CC13X2_26X2_SDK" active="true" />
+    <group name="SIMPLELINK_CC32XX_SDK_3_40_00_05" active="true" />
+</iarUserArgVars>
